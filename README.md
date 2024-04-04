@@ -1,2 +1,2 @@
 # langchain
-My personal projects tat experiment with the Langchain framework
+My personal projects that experiment with the Langchain framework
